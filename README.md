@@ -1,4 +1,5 @@
 # Newsroom Meta Clone
+![Myntra Clone](https://github.com/anand44xy/Newsroom-Meta/blob/master/images/Screenshot%20(66).png)
 
 This project is a clone of the Newsroom Meta website. It includes a fully functional mega menu and multiple pages with hover and transition effects, all implemented using HTML and CSS.
 
